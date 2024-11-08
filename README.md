@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src=https://assets-global.website-files.com/5c19020c997c25514d17d86f/60c0d9460c02947666c0d70c_Data%20report.gif
 
-![Profile view counter on GitHub] (https://github.com/shivansh7781/shivansh7781)
+![Profile views](https://komarev.com/ghpvc/?username=shivansh7781&color=blue)
+
 
 <p align="left"> 
 - 🌱 I’m currently learning Power Bi,PostgreSQL
